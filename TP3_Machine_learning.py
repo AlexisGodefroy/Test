@@ -12,6 +12,10 @@ from sklearn.model_selection import train_test_split
 
 # Voici un commentaire inutile
 
+#Quelques fonctions inutiles
+def sum(a,b):
+	return a+b
+
 
 plt.close("all")
 

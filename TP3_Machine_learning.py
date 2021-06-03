@@ -10,6 +10,8 @@ import math
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
 
+# Voici un commentaire inutile
+
 plt.close("all")
 
 # Chargement du dataset
